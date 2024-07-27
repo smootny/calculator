@@ -84,12 +84,10 @@ body{
 .title{
     display: flex;
     margin-top: 50px;
-    /*text-transform: uppercase;*/
     font-weight: 300;
     font-family: "Rajdhani", sans-serif;
     font-size: 50px;
     color: white;
-    /*text-decoration: underline;*/
     align-items: center;
     justify-content: center;
 }
